@@ -82,3 +82,8 @@ $ sudo docker run hello-world
 
 # DOCKER IS SUCCESSFULLY INSTALLED
 ![Docker installed Successfully](images/docker_ubuntu.png)
+
+
+#### Useful Resources
+- Setting Up Docker on Ubuntu: https://www.youtube.com/watch?v=V9AKvZZCWLc
+- Install Docker on Ubuntu System: https://docs.docker.com/install/linux/docker-ce/ubuntu/#upgrade-docker-ce
